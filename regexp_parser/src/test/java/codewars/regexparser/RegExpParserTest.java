@@ -1,6 +1,7 @@
-package codewars.regexp_parser;
+package codewars.regexparser;
 
 import org.junit.Test;
+
 import static org.junit.Assert.assertEquals;
 import java.util.Arrays;
 import java.util.List;

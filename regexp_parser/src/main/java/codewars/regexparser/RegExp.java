@@ -1,4 +1,4 @@
-package codewars.regexp_parser;
+package codewars.regexparser;
 
 public abstract class RegExp {
 	protected String surroundString(String string) {

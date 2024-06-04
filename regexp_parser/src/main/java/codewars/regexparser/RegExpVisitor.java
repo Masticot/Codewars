@@ -1,4 +1,4 @@
-package codewars.regexp_parser;
+package codewars.regexparser;
 
 import java.util.ArrayList;
 import java.util.List;

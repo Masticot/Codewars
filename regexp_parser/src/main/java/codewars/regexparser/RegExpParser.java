@@ -1,4 +1,4 @@
-package codewars.regexp_parser;
+package codewars.regexparser;
 
 public class RegExpParser {
     private String regex;

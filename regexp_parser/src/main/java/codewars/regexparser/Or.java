@@ -1,4 +1,4 @@
-package codewars.regexp_parser;
+package codewars.regexparser;
 
 public class Or extends RegExp {
 	private RegExp left;

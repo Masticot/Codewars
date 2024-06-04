@@ -1,4 +1,4 @@
-package codewars.regexp_parser;
+package codewars.regexparser;
 
 public class Normal extends RegExp {
 	private char character;
