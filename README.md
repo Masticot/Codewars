@@ -11,4 +11,4 @@ This repository contains Java implementations for several Codewars katas.
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/codewars-projects.git
+git clone https://github.com/Masticot/Codewars.git
